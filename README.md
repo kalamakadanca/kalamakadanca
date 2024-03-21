@@ -3,7 +3,7 @@
 I'm studying IT in high school. I'm currently learning Python and C#.<br/>
 You can reach me on my [Instagram](https://www.instagram.com/kalamakadanca/).
 
-![kalamakadanca's Stats](https://github-readme-stats.vercel.app/api?username=kalamakadanca&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![kalamakadanca's Stats](https://github-readme-stats.vercel.app/api?username=kalamakadanca&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
 
 <!--
 Here are some ideas to get you started:
