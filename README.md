@@ -1,6 +1,6 @@
-### Hi there👋
+### Hi, I'm Daniela👋
 
-I'm Daniela from Czech Republic. I'm currently learning Python and C#.
+I'm studying IT on high school. I'm currently learning Python and C#.
 
 ![kalamakadanca's Stats](https://github-readme-stats.vercel.app/api?username=kalamakadanca&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 <!--
