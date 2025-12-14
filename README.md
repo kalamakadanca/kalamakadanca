@@ -1,6 +1,6 @@
 ## Hi, I'm Daniela o/
 
-I'm currently learning C#.<br/>
+I'm currently learning C# and Python.<br/>
 You can reach me on my [Instagram](https://www.instagram.com/kalamakadanca/).
 
 ![kalamakadanca's Stats](https://github-readme-stats.vercel.app/api?username=kalamakadanca&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
